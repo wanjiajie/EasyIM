@@ -1,0 +1,9 @@
+[INFO][[2021-05-23 14:09:20:354]][140260438705984][/mnt/e/easyIM/fileserversrc/main.cpp:94]fileserver initialization completed, now you can use client to connect it.
+[INFO][[2021-05-23 14:09:31:634]][140260430120704][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0xed1bfc70 , threadID: 140260430120704
+[INFO][[2021-05-23 14:09:31:634]][140260421666560][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0xec9afc70 , threadID: 140260421666560
+[INFO][[2021-05-23 14:09:31:634]][140260210050816][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0xdffdfc70 , threadID: 140260210050816
+[INFO][[2021-05-23 14:09:31:634]][140260201596672][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0xdf7cfc70 , threadID: 140260201596672
+[INFO][[2021-05-23 14:09:31:635]][140260193142528][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0xdefbfc70 , threadID: 140260193142528
+[INFO][[2021-05-23 14:09:31:635]][140260184688384][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0xde7afc70 , threadID: 140260184688384
+[INFO][[2021-05-23 14:09:31:635]][140260438705984][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0xee0cc2e0 , threadID: 140260438705984
+[INFO][[2021-05-23 14:09:31:635]][140260438705984][/mnt/e/easyIM/fileserversrc/main.cpp:98]exit fileserver.

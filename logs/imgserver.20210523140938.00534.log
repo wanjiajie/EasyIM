@@ -1,0 +1,2 @@
+[ERROR][[2021-05-23 14:09:38:964]][140074984015680][/mnt/e/easyIM/fileserversrc/FileManager.cpp:15]open base dir error, errno: 2, No such file or directory
+[INFO][[2021-05-23 14:09:38:968]][140074984015680][/mnt/e/easyIM/imgserversrc/main.cpp:89]imgserver initialization complete, now you can use client to connect it.

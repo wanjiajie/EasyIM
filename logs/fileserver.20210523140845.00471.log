@@ -1,0 +1,10 @@
+[ERROR][[2021-05-23 14:08:45:391]][139888352823104][/mnt/e/easyIM/fileserversrc/FileManager.cpp:15]open base dir error, errno: 2, No such file or directory
+[INFO][[2021-05-23 14:08:45:395]][139888352823104][/mnt/e/easyIM/fileserversrc/main.cpp:94]fileserver initialization completed, now you can use client to connect it.
+[INFO][[2021-05-23 14:09:18:780]][139888344237824][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0x4b0ffc70 , threadID: 139888344237824
+[INFO][[2021-05-23 14:09:18:780]][139888335783680][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0x4a8efc70 , threadID: 139888335783680
+[INFO][[2021-05-23 14:09:18:780]][139888327329536][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0x4a0dfc70 , threadID: 139888327329536
+[INFO][[2021-05-23 14:09:18:781]][139888318875392][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0x498cfc70 , threadID: 139888318875392
+[INFO][[2021-05-23 14:09:18:781]][139888310421248][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0x490bfc70 , threadID: 139888310421248
+[INFO][[2021-05-23 14:09:18:781]][139888301967104][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0x488afc70 , threadID: 139888301967104
+[INFO][[2021-05-23 14:09:18:782]][139888352823104][/mnt/e/easyIM/net/EventLoop.cpp:127]Exiting loop, EventLoop object: 0x4c0092e0 , threadID: 139888352823104
+[INFO][[2021-05-23 14:09:18:782]][139888352823104][/mnt/e/easyIM/fileserversrc/main.cpp:98]exit fileserver.

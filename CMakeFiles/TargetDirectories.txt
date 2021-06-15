@@ -1,0 +1,5 @@
+/mnt/e/easyIM/CMakeFiles/rebuild_cache.dir
+/mnt/e/easyIM/CMakeFiles/edit_cache.dir
+/mnt/e/easyIM/CMakeFiles/fileserver.dir
+/mnt/e/easyIM/CMakeFiles/imgserver.dir
+/mnt/e/easyIM/CMakeFiles/chatserver.dir

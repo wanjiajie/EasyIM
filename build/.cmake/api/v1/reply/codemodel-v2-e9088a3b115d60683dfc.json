@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FLAMGINGO_SERVER",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "chatserver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chatserver-Debug-2d979b2e71ec6327a318.json",
+					"name" : "chatserver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fileserver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fileserver-Debug-7db46c3020ad25fdc64b.json",
+					"name" : "fileserver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "imgserver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-imgserver-Debug-96c143efc365cb6b3529.json",
+					"name" : "imgserver",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/e/easyIM/build",
+		"source" : "/mnt/e/easyIM"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
